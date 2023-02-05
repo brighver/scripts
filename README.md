@@ -1,2 +1,14 @@
-# scripts
-A collection of scripts that you can use
+## FILES
+
+* Layer4 Methods
+* Layer7 Methods
+
+## USING
+
+```
+ALL TUTORIALS THAT U WILL NEED U CAN FIND IN HOW TO USE FOLDER OR FOLDER OF THAT SHIT THAT U WANT TO USE!
+```
+
+#### License
+
+GPL-3.0
