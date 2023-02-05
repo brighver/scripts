@@ -1,7 +1,7 @@
 ## FILES
 
-* Layer4 Methods
-* Layer7 Methods
+* L4 Methods
+* L7 Methods
 
 ## USING
 
